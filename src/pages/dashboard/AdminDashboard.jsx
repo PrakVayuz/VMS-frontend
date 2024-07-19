@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import CreateJobDescriptionForm from './form';
-import JobDescriptionTable from './jobDescriptionTable';
 
+import JobDescriptionTable from './JobDescriptionTable';
 
 
 
